@@ -1,0 +1,12 @@
+{
+  "name": "Cool Mail",
+  "description": "A simple Chrome App that demonstrates WebSockets usage via Pusher.",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "envelope-16.png", "128": "envelope-128.png" }
+}
